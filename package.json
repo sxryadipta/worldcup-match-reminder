@@ -1,5 +1,5 @@
 {
-  "name": "portugal-reminders",
+  "name": "worldcup-match-reminder",
   "type": "module",
   "scripts": {
     "start": "node remind.js"
