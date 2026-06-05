@@ -1,5 +1,26 @@
 [
   {
+    "team": "Brazil",
+    "round": "Group C",
+    "opponent": "Morocco",
+    "kickoff_ist": "2026-06-14 03:30",
+    "venue": "New York New Jersey Stadium"
+  },
+  {
+    "team": "Germany",
+    "round": "Group E",
+    "opponent": "Curacao",
+    "kickoff_ist": "2026-06-14 22:30",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "team": "Spain",
+    "round": "Group H",
+    "opponent": "Cape Verde",
+    "kickoff_ist": "2026-06-15 21:30",
+    "venue": "Atlanta Stadium"
+  },
+  {
     "team": "Portugal",
     "round": "Group K",
     "opponent": "DR Congo",
