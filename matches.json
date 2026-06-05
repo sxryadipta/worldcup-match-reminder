@@ -21,11 +21,67 @@
     "venue": "Atlanta Stadium"
   },
   {
+    "team": "France",
+    "round": "Group I",
+    "opponent": "Senegal",
+    "kickoff_ist": "2026-06-16 00:30",
+    "venue": "New York New Jersey Stadium"
+  },
+  {
+    "team": "Argentina",
+    "round": "Group J",
+    "opponent": "Algeria",
+    "kickoff_ist": "2026-06-16 06:30",
+    "venue": "Kansas City Stadium"
+  },
+  {
     "team": "Portugal",
     "round": "Group K",
     "opponent": "DR Congo",
     "kickoff_ist": "2026-06-17 22:30",
     "venue": "NRG Stadium, Houston"
+  },
+  {
+    "team": "England",
+    "round": "Group L",
+    "opponent": "Croatia",
+    "kickoff_ist": "2026-06-17 1:30",
+    "venue": "Dallas Stadium"
+  },
+  {
+    "team": "Brazil",
+    "round": "Group C",
+    "opponent": "Haiti",
+    "kickoff_ist": "2026-06-19 06:30",
+    "venue": "Philadelphia Stadium"
+  },
+  {
+    "team": "Germany",
+    "round": "Group E",
+    "opponent": "Ivory Coast",
+    "kickoff_ist": "2026-06-20 01:30",
+    "venue": "Toronto Stadium"
+  },
+  {
+    "team": "Spain",
+    "round": "Group H",
+    "opponent": "Saudi Arabia",
+    "kickoff_ist": "2026-06-21 21:30",
+    "venue": "Atlanta Stadium"
+  },
+  {
+    "team": "Argentina",
+    "round": "Group J",
+    "opponent": "Austria",
+    "kickoff_ist": "2026-06-22 22:30",
+    "venue": "Dallas Stadium"
+  },
+  {
+    "team": "France",
+    "round": "Group I",
+    "opponent": "Iraq",
+    "kickoff_ist": "2026-06-22 02:30",
+    "venue": "Philadelphia Stadium"
   },
   {
     "team": "Portugal",
@@ -35,10 +91,59 @@
     "venue": "NRG Stadium, Houston"
   },
   {
+    "team": "England",
+    "round": "Group L",
+    "opponent": "Ghana",
+    "kickoff_ist": "2026-06-23 01:30",
+    "venue": "Boston Stadium"
+  },
+  {
+    "team": "Brazil",
+    "round": "Group C",
+    "opponent": "Scotland",
+    "kickoff_ist": "2026-06-24 03:30",
+    "venue": "NRG Stadium, Houston"
+  },
+  {
+    "team": "Germany",
+    "round": "Group E",
+    "opponent": "Equador",
+    "kickoff_ist": "2026-06-25 01:30",
+    "venue": "New York New Jersey Stadium"
+  },
+  {
+    "team": "Spain",
+    "round": "Group H",
+    "opponent": "Uruguay",
+    "kickoff_ist": "2026-06-26 05:30",
+    "venue": "Estadio Guadalajara"
+  },
+  {
+    "team": "France",
+    "round": "Group I",
+    "opponent": "Norway",
+    "kickoff_ist": "2026-06-26 00:30",
+    "venue": "Boston Stadium"
+  },
+  {
+    "team": "England",
+    "round": "Group L",
+    "opponent": "Panama",
+    "kickoff_ist": "2026-06-27 02:30",
+    "venue": "New York New Jersey Stadium"
+  },
+  {
+    "team": "Argentina",
+    "round": "Group J",
+    "opponent": "Jordan",
+    "kickoff_ist": "2026-06-27 07:30",
+    "venue": "Dallas Stadium"
+  },
+  {
     "team": "Portugal",
     "round": "Group K",
     "opponent": "Colombia",
     "kickoff_ist": "2026-06-28 05:00",
-    "venue": "Hard Rock Stadium, Miami"
+    "venue": "Miami Stadium"
   }
 ]
