@@ -32,6 +32,7 @@ for (const match of matches) {
     if (minsToGo >= window - WINDOW_MINS && minsToGo <= window + WINDOW_MINS) {
       const label = formatLabel(window);
       const body = [
+        `🤩 Get ready, Surya!`,
         `⚽ ${match.team} vs ${match.opponent} — ${label} to go!`,
         `🏆 ${match.round}`,
         `⏰ Kickoff: ${match.kickoff_ist} IST`,
