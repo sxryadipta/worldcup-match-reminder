@@ -1,0 +1,24 @@
+name: Match Reminders
+
+on:
+  schedule:
+    - cron: "0 * * * *"  
+  workflow_dispatch:       
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: node remind.js
+        env:
+          TWILIO_SID:   ${{ secrets.TWILIO_SID }}
+          TWILIO_TOKEN: ${{ secrets.TWILIO_TOKEN }}
+          WHATSAPP_TO:  ${{ secrets.WHATSAPP_TO }}
